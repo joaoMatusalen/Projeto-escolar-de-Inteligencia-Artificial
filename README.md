@@ -8,7 +8,7 @@ Mostrarei aqui meu projeto que me levou ao primeiro lugar na FECITEC UFV
 <p>Eu e meu grupo pensamos em realizar duas automatizações do jogo Dino Game (jogo do dinossauro do Google) uma utilizando o Arduino e outra utilizando uma inteligência artificial. Nossa ideia era mostrar que no futuro várias categorias de automatização serão feitos por I.A e que as usadas, por exemplo, com o Arduino se tornariam mais obsoletas e falávamos exemplos de como a I.A já está afetando o nosso dia a dia.</p>
 
 <h3>Arduino</h3>
-<p>O Arduino funciona</p>
+<p>Como Arduino funciona</p>
 O código do Arduino funciona de acordo com a luminosidade da tela com o sensor LDR. Como o jogo do dinossauro do Google tem o fundo branco ele detecta quando passa um cacto na tela fazendo o dino pular. Existe uma maneira de se fazer a ação de pulo com um servo motor, porém é mais caro e acabei utilizando o python para fazer a ação do pulo.
 
 <h3>Inteligência Artificial</h3>
