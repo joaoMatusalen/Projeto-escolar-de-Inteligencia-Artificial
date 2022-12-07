@@ -13,5 +13,7 @@ por I.A e que as usadas, por exemplo, com o Arduino se tornariam mais obsoletas 
 dia a dia.</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/86499977/206063148-a5f79eb4-4ba3-4885-9995-c9092363e875.png" width="0px" />
+<img src="https://user-images.githubusercontent.com/86499977/206063148-a5f79eb4-4ba3-4885-9995-c9092363e875.png" width="500px" />
 </div>
+<li><a href="https://github.com/joaoMatusalen/Projeto-escolar-de-Inteligencia-Artificial/files/10171874/certificado.de.primeiro.lugar.fecitec.pdf">certificado primeiro lugar</a></li>
+<li><a href="https://github.com/joaoMatusalen/Projeto-escolar-de-Inteligencia-Artificial/files/10171875/certificado.de.participacao.fecitec.pdf">certificado participação</a></li>
