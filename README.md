@@ -13,9 +13,9 @@ O código do Arduino funciona de acordo com a luminosidade da tela com o sensor 
 <h3>Inteligência Artificial</h3>
 Não projetei a I.A o link do Git de como ela funciona
 <li><a href="https://github.com/JVictorDias/Dinossauro-Google"</a>Donwload da I.A</li>
-E o vídeo no Youtube
+e o vídeo no Youtube
 <li><a href="https://www.youtube.com/watch?v=NZlIYr1slAk&t=472s"</a>Universo Programado</li>
-
+<h1> </h1>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/86499977/206063148-a5f79eb4-4ba3-4885-9995-c9092363e875.png" width="500px" </>
 </div>
@@ -24,7 +24,7 @@ E o vídeo no Youtube
  
 <li><a href="https://github.com/joaoMatusalen/Projeto-escolar-de-Inteligencia-Artificial/files/10171875/certificado.de.participacao.fecitec.pdf"</a>certificado de participação</li>
 
-<h2>Redes sociais da FECITEC</h2>
+<h3>Redes sociais da FECITEC</h3>
 <li><a href="https://www.instagram.com/fecitec_ufv/"</a>instagram</li>
 <li><a href="https://www.fecitec.caf.ufv.br/"</a>site</li>
 
