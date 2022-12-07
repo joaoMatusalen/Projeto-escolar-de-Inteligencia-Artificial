@@ -12,4 +12,4 @@ dia a dia.
 
 Depois de explicar resumidamente irei mostrar como que realizei as partes da programação do Arduino e a I.A.
 
-<h2> Arduino </h2>
+<h2> Arduino 🎟 </h2>
