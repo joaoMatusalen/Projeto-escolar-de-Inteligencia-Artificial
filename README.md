@@ -12,4 +12,6 @@ Arduino e outra utilizando uma inteligência artificial. Nossa ideia era mostrar
 por I.A e que as usadas, por exemplo, com o Arduino se tornariam mais obsoletas e falávamos exemplos de como a I.A já está afetando o nosso
 dia a dia.</p>
 
-<img>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86499977/206063148-a5f79eb4-4ba3-4885-9995-c9092363e875.png" width="0px" />
+</div>
