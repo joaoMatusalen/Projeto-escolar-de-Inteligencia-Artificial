@@ -14,3 +14,7 @@ Mostrarei aqui meu projeto que me levou ao primeiro lugar na FECITEC UFV
  <li><a href="https://github.com/joaoMatusalen/Projeto-escolar-de-Inteligencia-Artificial/files/10171874/certificado.de.primeiro.lugar.fecitec.pdf">certificado primeiro lugar</a></li>
  
 <li><a href="https://github.com/joaoMatusalen/Projeto-escolar-de-Inteligencia-Artificial/files/10171875/certificado.de.participacao.fecitec.pdf"</a>certificado de participação</li>
+
+
+<h3>O codigo da I.A foi feito por</h3> 
+<li><a href="https://github.com/JVictorDias/Dinossauro-Google"</a>Donwload da I.A</li>
